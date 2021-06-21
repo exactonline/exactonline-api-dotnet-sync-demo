@@ -1,0 +1,17 @@
+﻿# Install the EditorConfig extension from https://visualstudiogallery.msdn.microsoft.com/c8bccfe2-650c-4b42-bc5c-845e21f96328
+# Note: This feature is going to be added to future versions of Visual Studio.
+
+root = true
+
+# Defaults
+
+[*]
+end_of_line = crlf
+indent_style = tab
+indent_size = 4
+
+# Exceptions
+
+[*.{yml,vbproj,csproj}]
+indent_size = 4
+tab_size = 4

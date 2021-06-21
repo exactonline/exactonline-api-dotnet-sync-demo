@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+	<EOL>
+		<Environments>
+			<Environment>
+				<Code>NL</Code>
+				<Uri>https://start.exactonline.nl</Uri>
+				<Division></Division>
+				<ClientID encrypted="0"></ClientID>
+				<ClientSecret encrypted="0"></ClientSecret>
+				<CallbackUri encrypted="0"></CallbackUri>
+				<RefreshToken encrypted="0"></RefreshToken>
+			</Environment>
+		</Environments>
+		<Apis>
+			<Api>
+				<Name>CrmAccount</Name>
+				<Timestamp>0</Timestamp>
+			</Api>
+			<Api>
+				<Name>Deleted</Name>
+				<Timestamp>0</Timestamp>
+			</Api>
+		</Apis>
+	</EOL>
+</Settings>
